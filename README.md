@@ -1,8 +1,10 @@
-# 1-F-Bee-IT-Start-homework-project2
+# project2-1-F-Bee-IT-Start-homework
 
 ##Как использовать репозитарий
 
-$ git clone https://github.com/DenisBeck/1-F-Bee-IT-Start-homework-project2
+$ git clone https://github.com/DenisBeck/project2-1-F-Bee-IT-Start-homework
+
+$ cd project2-1-F-Bee-IT-Start-homework
 
 $ npm install
 
