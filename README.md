@@ -9,3 +9,6 @@ $ cd project2-1-F-Bee-IT-Start-homework
 $ npm install
 
 $ npm run dev
+
+
+Сборка gulp/webpac "Чертоги фрилансера 3.0" (Фрилансер по жизни Евгений Андриканич)
